@@ -35,13 +35,13 @@ Managing and syncing physical inspection logs and official documentation manuall
 ## System Interface & Previews
 
 <p align="center">
-  <img src="Assets-BFP_Automation/Screenshot1.png" alt="BFP System Interface 1" width="80%"/>
+  <img src="Assets-BFP_Automation/Admin-dashboard.png" alt="Admin Dashboard Overview" width="80%"/>
   <br><br>
-  <img src="Assets-BFP_Automation/Screenshot2.png" alt="BFP System Interface 2" width="80%"/>
+  <img src="Assets-BFP_Automation/Admin-dashboard2.png" alt="Admin Dashboard Detailed View" width="80%"/>
   <br><br>
-  <img src="Assets-BFP_Automation/Screenshot3.png" alt="BFP System Interface 3" width="80%"/>
+  <img src="Assets-BFP_Automation/database-records-view.png" alt="Database Records View" width="80%"/>
   <br><br>
-  <img src="Assets-BFP_Automation/Screenshot4.png" alt="BFP System Interface 4" width="80%"/>
+  <img src="Assets-BFP_Automation/inspection-status-dashboard.png" alt="Inspection Status Dashboard" width="80%"/>
 </p>
 ---
 *Developed by Evan Gelo Lazo as part of IT internship requirements at BFP Mandaluyong.*
