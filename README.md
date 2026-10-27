@@ -31,5 +31,17 @@ Managing and syncing physical inspection logs and official documentation manuall
 3. **Automated Processing:** Google Apps Script processes payloads, updates the operational database, and triggers template rendering.
 4. **Output Generation:** Official PDF reports are auto-generated and archived for deployment.
 
+
+## System Interface & Previews
+
+<p align="center">
+  <img src="Assets-BFP_Automation/Screenshot1.png" alt="BFP System Interface 1" width="80%"/>
+  <br><br>
+  <img src="Assets-BFP_Automation/Screenshot2.png" alt="BFP System Interface 2" width="80%"/>
+  <br><br>
+  <img src="Assets-BFP_Automation/Screenshot3.png" alt="BFP System Interface 3" width="80%"/>
+  <br><br>
+  <img src="Assets-BFP_Automation/Screenshot4.png" alt="BFP System Interface 4" width="80%"/>
+</p>
 ---
 *Developed by Evan Gelo Lazo as part of IT internship requirements at BFP Mandaluyong.*
